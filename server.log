@@ -1,0 +1,20 @@
+2026-01-18 08:15:23 192.168.1.100 INFO User login successful - user: alice
+2026-01-18 08:16:45 192.168.1.101 WARNING Failed login attempt - user: bob
+2026-01-18 08:17:12 192.168.1.100 INFO Page accessed - /dashboard
+2026-01-18 08:18:33 192.168.1.102 ERROR Database connection failed
+2026-01-18 08:19:54 192.168.1.101 WARNING Failed login attempt - user: bob
+2026-01-18 08:20:15 192.168.1.103 INFO User login successful - user: charlie
+2026-01-18 08:21:36 192.168.1.100 INFO Page accessed - /profile
+2026-01-18 08:22:57 192.168.1.101 WARNING Failed login attempt - user: bob
+2026-01-18 08:23:18 192.168.1.104 ERROR File not found - /data/report.pdf
+2026-01-18 08:24:39 192.168.1.102 ERROR Database connection failed
+2026-01-18 08:25:50 192.168.1.100 INFO User logout - user: alice
+2026-01-18 08:26:11 192.168.1.105 INFO User login successful - user: david
+2026-01-18 08:27:32 192.168.1.101 ERROR Account locked - user: bob
+2026-01-18 08:28:53 192.168.1.103 INFO Page accessed - /settings
+2026-01-18 08:29:14 192.168.1.106 WARNING Suspicious activity detected - multiple requests
+2026-01-18 08:30:35 192.168.1.100 INFO Page accessed - /dashboard
+2026-01-18 08:31:56 192.168.1.107 INFO User login successful - user: eve
+2026-01-18 08:32:17 192.168.1.102 ERROR Database connection failed
+2026-01-18 08:33:38 192.168.1.108 WARNING Rate limit exceeded - IP: 192.168.1.108
+2026-01-18 08:34:59 192.168.1.105 INFO User logout - user: david
